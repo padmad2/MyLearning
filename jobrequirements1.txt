@@ -1,0 +1,6 @@
+Python, with knowledge of at least one Python web framework such as Django or Flask, fastapi or any other Python-related framework
+. Basic working knowledge in Git
+. Work experience in SQL, NoSQL databases
+. Familiarity with Linux, basic knowledge of bash scripting will be a plus
+. HTML5, CSS3 and JavaScript (ES5, ES6+) 
+. databases(NoSQL, RDBMS) using Python
